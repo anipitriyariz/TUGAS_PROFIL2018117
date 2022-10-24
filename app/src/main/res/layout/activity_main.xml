@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginBottom="0dp"
-    android:background="#E9ECEF"
+    android:background="#ffffff"
     tools:context=".MainActivity">
 
     <Button
@@ -66,7 +66,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="64dp"
                 android:fontFamily="@font/poppins_bold"
-                android:text="A. Asrul"
+                android:text="Ani Pitriya Rizki"
                 android:textAlignment="center"
                 android:textSize="16sp" />
 
@@ -113,7 +113,7 @@
             android:id="@+id/imageView7"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            app:srcCompat="@drawable/asrul" />
+            app:srcCompat="@drawable/ani" />
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
@@ -156,7 +156,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="@font/poppins_medium"
-                    android:text="A. Asrul"
+                    android:text="Ani Pitriya Rizki"
                     android:textAlignment="textEnd" />
 
             </LinearLayout>
@@ -189,7 +189,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="@font/poppins_medium"
-                    android:text="Gowa"
+                    android:text="Bojonegoro"
                     android:textAlignment="textEnd" />
 
             </LinearLayout>
@@ -222,7 +222,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="@font/poppins_medium"
-                    android:text="15 Mei 2002"
+                    android:text="08 Juni 2001"
                     android:textAlignment="textEnd" />
 
             </LinearLayout>
